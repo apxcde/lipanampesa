@@ -1,27 +1,27 @@
 {
     "name": "lipanampesa",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "lipa na mpesa node package",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/apxcde/lipanampesa.git"
+        "type": "git",
+        "url": "git+https://github.com/apxcde/lipanampesa.git"
     },
     "keywords": [
-      "mpesa",
-      "lipanampesa",
-      "stk"
+        "mpesa",
+        "lipanampesa",
+        "stk"
     ],
     "author": "mwamodo",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/apxcde/lipanampesa/issues"
+        "url": "https://github.com/apxcde/lipanampesa/issues"
     },
     "homepage": "https://github.com/apxcde/lipanampesa#readme",
     "dependencies": {
-      "axios": "^0.19.0"
+        "axios": "^0.19.0"
     }
-  }
+}
